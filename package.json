@@ -1,0 +1,24 @@
+{
+  "name": "live-uploader",
+  "version": "1.0.0",
+  "description": "A rubbish script that uploads to my rubbish server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benfoxall/live-uploader.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benfoxall/live-uploader/issues"
+  },
+  "homepage": "https://github.com/benfoxall/live-uploader#readme",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "pusher": "^1.2.1",
+    "request": "^2.70.0"
+  }
+}
